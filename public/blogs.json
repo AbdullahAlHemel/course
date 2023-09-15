@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "cover": "https://imagizer.imageshack.com/img923/271/APoyPa.png",
+        "title": "Introduction to C ",
+        "dec": "C is a general-purpose programming language created by Dennis Ritchie at the Bell Laboratories in 1972.it is a popular language in present world",
+        "price": 200,
+        "time": 1
+     
+    },
+    {
+        "id": 2,
+        "cover": "https://imagizer.imageshack.com/img924/2218/e0zb8y.png",
+        "title": "Database (MySQL)",
+        "dec": "MySQL HeatWave is a fully managed database service for transactions, real ... MySQL Cluster enables users to meet the database challenges",
+        "price": 140,
+        "time": 2
+        
+    },
+    {
+        "id": 3,
+        "cover": "https://imagizer.imageshack.com/img922/6959/yPyyB7.png",
+        "title": "Basic Data Structures",
+        "dec": "Data Structures & Algorithm Basic Concepts · Data Definition. Data Definition defines a particular data with the following characteristics Globe.",
+        "price": 190,
+        "time": 3
+        
+    },
+    {
+        "id": 4,
+        "cover": "https://imagizer.imageshack.com/img924/1814/c3l9Ai.png",
+        "title": "Introduction to OOP Python",
+        "dec": "n Python, object-oriented Programming (OOPs) is a programming paradigm that uses objects and classes in programming",
+        "price": 300,
+        "time": 4
+       
+    },
+    {
+        "id": 5,
+        "cover": "https://imagizer.imageshack.com/img924/4968/BKVKxb.png",
+        "title": "Introduction to Algorithms",
+        "dec": "A comprehensive update of the leading algorithms text, with new material on matchings in bipartite graphs, online algorithms",
+        "price": 390,
+        "time": 5
+        
+    },
+    {
+        "id": 6,
+        "cover": "https://imagizer.imageshack.com/img924/1407/zqRPeF.png",
+        "title": "Software Engineering",
+        "dec": "Software engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications. ",
+        "price": 410,
+        "time": 6
+       
+    },
+    {
+        "id": 7,
+        "cover": "https://imagizer.imageshack.com/img923/1237/xNqROt.png",
+        "title": "Problem-Solving Part",
+        "dec": "Learn the four steps in the problem-solving process so you can understand and resolve the issues confronting your organization.",
+        "price": 490,
+        "time": 7
+        
+    },
+    {
+        "id": 8,
+        "cover": "https://imagizer.imageshack.com/img924/5995/Ji2gmr.png",
+        "title": "AWS, Cloud Computing",
+        "dec": "Amazon Web Services, Inc. is a subsidiary of Amazon that provides on-demand cloud computing platforms and APIs to individuals",
+        "price": 590,
+        "time": 8
+        
+    },
+    {
+        "id": 9,
+        "cover": "https://imagizer.imageshack.com/img922/3074/VgoTe7.png",
+        "title": "Introduction to C++ for DSA",
+        "dec": "Key concepts of C++ DSA include Arrays, Linked Lists, Stacks, Queues, Trees, and Graphs. Common Algorithms in C++ DSA include Sorting.",
+        "price": 1000,
+        "time": 9
+    }
+]
